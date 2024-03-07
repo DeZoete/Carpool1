@@ -1,0 +1,27 @@
+#Front-text{
+    color: purple;
+    text-align: center;
+    font-size: 70px;
+}
+
+
+body{
+    background-image: url('Carcrash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Forside-knap button:hover {
+    background-color: lightgreen;
+}
+
+#Forside-knap {
+    display: flex;
+    justify-content: center;
+
+}
+#Forside-knap button {
+
+    font-size: 3rem;
+
+}
+
