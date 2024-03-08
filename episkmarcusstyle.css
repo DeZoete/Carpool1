@@ -3,6 +3,7 @@
     flex-direction: column;
     align-items: center;
     margin-top: 170px;
+    color: white;
 
 
 }
@@ -36,8 +37,12 @@
 
 body{
 
-    background-image: url('car.jpeg');
+    background-image: url('car.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 
+}
+
+.color{
+    color: white;
 }
