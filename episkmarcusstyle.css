@@ -1,0 +1,48 @@
+.afgang-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 170px;
+    color: white;
+
+
+}
+
+.afgang-item-1{
+
+    width: 550px;
+    height: 150px;
+    margin: 50px;
+    border: 1px solid #333;
+
+
+
+}
+
+
+.afgang-item-2{
+
+    width: 550px;
+    height: 150px;
+    margin: 30px;
+    border: 1px solid #333;
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+body{
+
+    background-image: url('car.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.color{
+    color: white;
+}
