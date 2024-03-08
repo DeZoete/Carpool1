@@ -4,7 +4,7 @@
 
 body {
     display: flex;
-    background-image: url('../images/signup.png');
+    background-image: url('signup.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100% 150%;

@@ -4,7 +4,7 @@
 
 body {
     display: flex;
-    background-image: url('../images/cars.jpg');
+    background-image: url('cars.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100% 120%;
